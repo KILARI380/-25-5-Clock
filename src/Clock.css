@@ -1,0 +1,34 @@
+.clock {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.timer-container {
+  background: #282c34;
+  color: #61dafb;
+  padding: 20px;
+  font-size: 2em;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.controls, .length-controls {
+  margin-top: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 1em;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #61dafb;
+  color: white;
+}
+
+.length-controls div {
+  margin-top: 10px;
+}
